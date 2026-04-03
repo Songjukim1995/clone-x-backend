@@ -12,7 +12,7 @@ import { TypeOrmModule } from '@nestjs/typeorm';
       host: '34.50.3.129',
       port: 3306,
       username: 'admin',
-      password: 'Admin1234!',
+      password: 'Admin!12',
       database: 'twitter',
       autoLoadEntities: true,
       synchronize: false,
